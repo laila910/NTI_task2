@@ -1,2 +1,2 @@
 # NTI_Task2
- Task 1 during NTI web design course for Front End
+ Task 2 during NTI web design course for Front End
